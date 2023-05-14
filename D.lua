@@ -1,13 +1,13 @@
 N = io.read("*n", "*l");
 A = {}
 for i = 1, N do
-    local a = io.read("*n");
-    A[#A + 1] = a;
+    A[i] = io.read("*n");
 end
 
 ans = 100;
-for _, a in pairs(A) do
+for i = 1, N do
     local value = 0;
+    local a = A[i];
     while a % 2 == 0 do
         value = value + 1;
         a = a // 2;
