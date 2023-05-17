@@ -1,3 +1,4 @@
+-- https://atcoder.jp/contests/abs/tasks/abc086_a
 a, b = io.read("*n", "*n");
 prod = a * b;
 parity = prod % 2;

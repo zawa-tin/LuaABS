@@ -1,3 +1,4 @@
+-- https://atcoder.jp/contests/abs/tasks/abc087_b
 A, B, C, X = io.read("*n", "*n", "*n", "*n");
 
 local function f(a, b, c)

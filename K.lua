@@ -1,3 +1,4 @@
+-- https://atcoder.jp/contests/abs/tasks/arc089_a
 function can(sx, sy, st, gx, gy, gt)
     x, y, t = math.abs(sx - gx), math.abs(sy - gy), math.abs(gt - st);
     parity_point, parity_time = (x + y) % 2, t % 2;

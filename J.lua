@@ -1,3 +1,4 @@
+-- https://atcoder.jp/contests/abs/tasks/arc065_a
 vals = { "dream", "dreamer", "erase", "eraser" };
 for i = 1, 4 do
     vals[i] = vals[i]:reverse();

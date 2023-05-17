@@ -1,3 +1,4 @@
+-- https://atcoder.jp/contests/abs/tasks/abc083_b
 local function f(v)
     local res = 0;
     while v > 0 do

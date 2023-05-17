@@ -1,3 +1,4 @@
+-- https://atcoder.jp/contests/abs/tasks/abc085_c
 N, Y = io.read("*n", "*n");
 
 function check(i, j, k)

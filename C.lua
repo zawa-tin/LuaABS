@@ -1,3 +1,4 @@
+-- https://atcoder.jp/contests/abs/tasks/abc081_a
 s = io.read("*l");
 ans = 0;
 for i = 1, #s do

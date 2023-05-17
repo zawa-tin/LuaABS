@@ -1,4 +1,4 @@
--- *nで数値、*lで文字列?
+-- https://atcoder.jp/contests/abs/tasks/practice_1
 a = io.read("*n");
 b, c = io.read("*n", "*n", "*l");
 s = io.read("*l");

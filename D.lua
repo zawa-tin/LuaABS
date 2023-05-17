@@ -1,3 +1,4 @@
+-- https://atcoder.jp/contests/abs/tasks/abc081_b
 N = io.read("*n", "*l");
 A = {}
 for i = 1, N do
